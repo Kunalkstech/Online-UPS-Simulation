@@ -46,7 +46,7 @@ The input AC supply is converted into DC using a rectifier. The DC link maintain
 
 ### Load Current
 
-![Load Current](Current_wave.png)
+![Load Current](Current_wave.jpg)
 
 ---
 
