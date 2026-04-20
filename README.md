@@ -39,7 +39,7 @@ The input AC supply is converted into DC using a rectifier. The DC link maintain
 
 ### Inverter Output Voltage (Normal Operation)
 
-![Inverter Output Voltage](inverter_output_voltage.jpg)
+![Inverter Output Voltage](output_voltage.jpg)
 
 ### Bypass Voltage (Backup Mode)
 
@@ -47,7 +47,7 @@ The input AC supply is converted into DC using a rectifier. The DC link maintain
 
 ### Load Current
 
-![Load Current](current_wave.jpg)
+![Load Current](current.jpg)
 
 ---
 
