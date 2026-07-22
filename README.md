@@ -74,4 +74,4 @@ The input AC supply is converted into DC using a rectifier. The DC link maintain
 
 ## Author
 
-Developed by: Kunal Shinde
+Developed by: Kunal Kailash Shinde
